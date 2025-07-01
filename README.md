@@ -55,7 +55,7 @@ Our goal is to **empower the backend** — one service at a time.
 
 Have a project in mind or want to collaborate?
 
-- 📧 Email: dilshanwma.edu@gmail.com  
+- 📧 Email: dilshanwma@gmail.com  
 - 🌍 Website: *(coming soon...)*  
 - 🐙 GitHub: [github.com/WebSerSide](https://github.com/WebSerSide)
 
